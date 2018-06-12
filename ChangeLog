@@ -1,0 +1,38 @@
+1.41 18.05.2015
+use readline() from EnchancedSerial with timeout
+minor bugfix
+
+
+1.40 15.05.2015
+add and fix exception for mysql, serial
+fix serial port timeout
+add EnhancedSerial class to new readline function (not tested yet)
+add new report sql for call centre
+
+1.32
+bugfix: delete timeout param from serial.open
+
+1.31 
+add PBX_ID to jabber message
+
+1.30 27.04.2015 
+Change XMPP alarm: send to conference room
+Add XMPP config to ini file
+
+1.21 27.04.2015 
+fix open serial port with config
+
+1.20 24.04.2015 
+add XMPP alarm
+
+1.1 16.04.2015 
+add try/except logic for 
+   
+1.0 14.04.2015 
+convert to Python 2
+
+0.2 20.04.2015 
+fix open serial port 
+
+0.1 10.04.2015 
+initial. Python 3
